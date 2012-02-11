@@ -3,6 +3,7 @@ A CoffeeScript Class that monitors all elements in the body with `data-view` att
 ## Requirements:
 - CoffeeScript
 - (Backbone.js)
+- (Twitter Bootstrap 2.0)
 
 ## Usage:
 1. `new ViewTooltip` within for example your backbone.js View maintaining your whole app layout.
